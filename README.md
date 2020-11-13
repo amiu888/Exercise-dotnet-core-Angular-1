@@ -8,7 +8,7 @@
 ## 3. Clone socure code from https://github.com/amiu888/Exercise-dotnet-core-Angular-1.git
 ## 4. Use Git command to create a branch for you.
 ## 5. Open the projects in vscode
-## 6. Start debugging by press F5.
+## 6. Start debugging by press F5. (It should take about 10 mins)
 
 
 
